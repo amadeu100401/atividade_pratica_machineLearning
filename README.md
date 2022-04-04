@@ -12,5 +12,12 @@
 </p>
 <h1> 🛠 Linguagem utilizada</h1>
 <p>
-  •Python 
+  •Python (Google Colab)
+</p>
+<p>
+  <h1>Instruções</h1>
+  • Para executar o notebook, abrir o arquivo "Atividade_Pratica_1_BolsaFamilia.ipynb".
+  </br>• Após o arquivo aberto, basta clicar no botão "Open in Colab", que você será redirecionado para o notebook no colab. 
+  </br>• Caso deseje rodar o programa, basta clicar em ctrl + F9 que irá executar todos os módulo. 
+  </br>• Sobre as análises e outros detalhes, é possível encontrar informações no própio notebook. 
 </p>
